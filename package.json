@@ -1,6 +1,5 @@
 {
-  "homepage": "https://maligaurav947.github.io/moviedb-react",
-  "name": "moviedb",
+  "name": "Movilo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
